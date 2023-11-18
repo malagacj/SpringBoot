@@ -9,8 +9,8 @@ Thymeleaf demo project
 
 # Steps
 1. Start a new Spring Project in Start Spring [site][start-spring] and select the following dependencies:
-    a. Spring Web
-    b. Thymeleaf
+    1. Spring Web
+    1. Thymeleaf
 1. Generate Project and Unzip it!
 
 
