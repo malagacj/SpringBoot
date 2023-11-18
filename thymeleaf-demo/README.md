@@ -3,7 +3,7 @@ Thymeleaf demo project
 
 
 # Sources
-1. [HOW do I serve WEB TEMPLATES with SPRING BOOT 3?]
+1. [HOW do I serve WEB TEMPLATES with SPRING BOOT 3?][thymeleaf from Spring Boot Learning]
 
 
 
