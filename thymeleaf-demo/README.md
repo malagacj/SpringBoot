@@ -15,5 +15,5 @@ Thymeleaf demo project
 
 
 
-[start-spring]: start.spring.io
+[start-spring]: https://start.spring.io
 [thymeleaf from Spring Boot Learning]: https://www.youtube.com/watch?v=oMza2mdzUIA
